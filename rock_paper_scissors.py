@@ -48,7 +48,6 @@ while is_running:
             print("It's a tie")
             continue
 
-
         elif cpu_choice == S:
             print("Cpu Wins")
 
